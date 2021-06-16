@@ -1,4 +1,8 @@
-### Hi there 👋
+hello. so we had a project to make a pacman ripoff. its original name is mpampis potteridis. 
+you can choose to see a demo.
+there is a highscore board.
+the monsters are clever enough.
+the code needs improvements
 
 <!--
 **akisnoobotrolis/Akisnoobotrolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
